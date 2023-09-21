@@ -1,0 +1,152 @@
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.exe
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.deps.json
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.runtimeconfig.json
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.pdb
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.csproj.AssemblyReference.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.AssemblyInfoInputs.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.AssemblyInfo.cs
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.csproj.CoreCompileInputs.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.ConsultorioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ConsultorioAPI.props
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ConsultorioAPI.props
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ConsultorioAPI.props
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\scopedcss\bundle\ConsultorioAPI.styles.css
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.csproj.CopyComplete
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\refint\ConsultorioAPI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.pdb
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.genruntimeconfig.cache
+C:\Users\elain\OneDrive\Área de Trabalho\C# - Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ref\ConsultorioAPI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.exe
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.deps.json
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.runtimeconfig.json
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\ConsultorioAPI.pdb
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.csproj.AssemblyReference.cache
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.AssemblyInfoInputs.cache
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.AssemblyInfo.cs
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.csproj.CoreCompileInputs.cache
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.ConsultorioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ConsultorioAPI.props
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ConsultorioAPI.props
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ConsultorioAPI.props
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\scopedcss\bundle\ConsultorioAPI.styles.css
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.csproj.CopyComplete
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\refint\ConsultorioAPI.dll
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.pdb
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ConsultorioAPI.genruntimeconfig.cache
+C:\Users\elain\OneDrive\Área de Trabalho\Devs2Blu\ConsultorioAPI\ConsultorioAPI\obj\Debug\net7.0\ref\ConsultorioAPI.dll
